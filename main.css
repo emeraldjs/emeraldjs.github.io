@@ -1,38 +1,50 @@
+
 .big-text {
 	padding-left;
-	color: #669900;
+	color: #7d1f00;
 	font-size: 35px;
 	font-family: American Typewriter;
+	background-color: #ddbbff;
 }
-.para-graph {
+.paragraph {
 	color: rebeccapurple;
 	font-family: American Typewriter;
 	font-size: 20px;
+	background-color: #ddbbff;
 }
-.medium-text {
-	padding-left; 
-	font-family: American Typewriter;
-	color: #ff33cc;
-	font-size: 35px;
-}
-.para-para-graph {
+.para-paragraph {
 	color: rebeccapurple;
 	font-family: American Typewriter;
 	font-size: 20px;
+	background-color: #ddbbff;
 }
 .small-text {
-	padding-left: 
+	padding-left; 
 	font-family: American Typewriter;
-	color: #00ccff;
+	color: #005d7d;
 	font-size: 35px;
+	background-color: #ddbbff;
 }
-.para-para-para-graph {
+.dog-pic {
+	height: 500px;
+	width: 500px;
+	background-color: #ddbbff;
+}
+.para-para-paragraph {
 	font-size: 20px;
 	font-family: American Typewriter;
 	color: rebeccapurple;
+	background-color: #ddbbff;
 }
-
-.dog-pic {
-	height: 100px;
-	width: 100px;
+.para-para-para-paragraph {
+	font-size: 20px;
+	font-family: American Typewriter;
+	color: rebeccapurple;
+	background-color: #ddbbff;
+}
+.para-para-para-para-paragraph {
+	font-size: 20px;
+	font-family: American Typewriter;
+	color: rebeccapurple;
+	background-color: #ddbbff;
 }
