@@ -1,5 +1,38 @@
 .big-text {
-	font-color: #228b22;
-	font-size: 57px;
+	padding-left;
+	color: #669900;
+	font-size: 35px;
 	font-family: American Typewriter;
+}
+.para-graph {
+	color: rebeccapurple;
+	font-family: American Typewriter;
+	font-size: 20px;
+}
+.medium-text {
+	padding-left; 
+	font-family: American Typewriter;
+	color: #ff33cc;
+	font-size: 35px;
+}
+.para-para-graph {
+	color: rebeccapurple;
+	font-family: American Typewriter;
+	font-size: 20px;
+}
+.small-text {
+	padding-left: 
+	font-family: American Typewriter;
+	color: #00ccff;
+	font-size: 35px;
+}
+.para-para-para-graph {
+	font-size: 20px;
+	font-family: American Typewriter;
+	color: rebeccapurple;
+}
+
+.dog-pic {
+	height: 100px;
+	width: 100px;
 }
