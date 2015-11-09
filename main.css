@@ -1,53 +1,52 @@
-
 .big-text {
 	padding-left;
 	color: #7d1f00;
 	font-size: 35px;
 	font-family: American Typewriter;
-	background-color: #ddbbff;
 }
+
 .paragraph {
 	color: rebeccapurple;
 	font-family: American Typewriter;
 	font-size: 20px;
-	background-color: #ddbbff;
 }
+
 .para-paragraph {
 	color: rebeccapurple;
 	font-family: American Typewriter;
 	font-size: 20px;
-	background-color: #ddbbff;
 }
+
 .small-text {
 	padding-left; 
 	font-family: American Typewriter;
 	color: #005d7d;
 	font-size: 35px;
-	background-color: #ddbbff;
 }
+
 .dog-pic {
 	height: 500px;
 	width: 500px;
-	background-color: #ddbbff;
 }
+
 .para-para-paragraph {
 	font-size: 20px;
 	font-family: American Typewriter;
 	color: rebeccapurple;
-	background-color: #ddbbff;
 }
+
 .para-para-para-paragraph {
 	font-size: 20px;
 	font-family: American Typewriter;
 	color: rebeccapurple;
-	background-color: #ddbbff;
 }
+
 .para-para-para-para-paragraph {
 	font-size: 20px;
 	font-family: American Typewriter;
 	color: rebeccapurple;
-	background-color: #ddbbff;
 }
+
 .body {
-	background-color: #0099cc;
+	background-color: #e0ffff;
 }
